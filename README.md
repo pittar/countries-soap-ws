@@ -1,6 +1,6 @@
 # Countries SOAP Web Service
 
-A simple application that exposes a Web Service that returns data about a (very small) list of Countries.  Based on the Spring [prorducing web services tutorial)[https://spring.io/guides/gs/producing-web-service/].
+A simple application that exposes a Web Service that returns data about a (very small) list of Countries.  Based on the Spring [prorducing web services tutorial](https://spring.io/guides/gs/producing-web-service/).
 
 Countries include:
 * Spain
