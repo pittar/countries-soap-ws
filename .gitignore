@@ -7,3 +7,6 @@ mvnw
 mvnw.bat
 target
 
+.classpath
+.project
+.settings
